@@ -1,2 +1,2 @@
-# java-practice
-Repo for Java practice 
+# java-demo
+Repo for Java Demonstrations 
